@@ -1,1 +1,1 @@
-# PrakPBO
+# Assignment Praktikum Pemrograman Berorientasi Objek
